@@ -1,1 +1,1 @@
-# AdvancedTopicsInDigitalCommuications-Lecture
+# Error-Control-Coding-Lecture
